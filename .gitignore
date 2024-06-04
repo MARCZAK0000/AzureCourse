@@ -1,0 +1,5 @@
+StorageAccount/BlobStorage/*.json
+StorageAccount/BlobStorage/appsettings.json
+StorageAccount/BlobStorage/Properties
+StorageAccount/BlobStorage/bin
+StorageAccount/BlobStorage/obj
