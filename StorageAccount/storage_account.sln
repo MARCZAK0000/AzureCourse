@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlobStorage", "BlobStorage\BlobStorage.csproj", "{BA2E6210-A978-4964-9AB9-BAD54AF3CC8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueStorage", "QueueStorage\QueueStorage.csproj", "{70185D17-8B6C-40CE-BA30-8D0A9D0F90A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableStorage", "TableStorage\TableStorage.csproj", "{775CF998-6D75-4380-B9F4-2A0F66F2804A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzuriteEmulator", "AzuriteEmulator\AzuriteEmulator.csproj", "{E698EF9F-F34D-40EE-AF07-924919FF3216}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA2E6210-A978-4964-9AB9-BAD54AF3CC8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA2E6210-A978-4964-9AB9-BAD54AF3CC8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA2E6210-A978-4964-9AB9-BAD54AF3CC8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA2E6210-A978-4964-9AB9-BAD54AF3CC8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70185D17-8B6C-40CE-BA30-8D0A9D0F90A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70185D17-8B6C-40CE-BA30-8D0A9D0F90A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70185D17-8B6C-40CE-BA30-8D0A9D0F90A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70185D17-8B6C-40CE-BA30-8D0A9D0F90A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{775CF998-6D75-4380-B9F4-2A0F66F2804A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{775CF998-6D75-4380-B9F4-2A0F66F2804A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{775CF998-6D75-4380-B9F4-2A0F66F2804A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{775CF998-6D75-4380-B9F4-2A0F66F2804A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E698EF9F-F34D-40EE-AF07-924919FF3216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E698EF9F-F34D-40EE-AF07-924919FF3216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E698EF9F-F34D-40EE-AF07-924919FF3216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E698EF9F-F34D-40EE-AF07-924919FF3216}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
